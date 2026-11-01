@@ -1,0 +1,1 @@
+{"dependencies":{"ws":"^8.0.0"},"description":"Minimal VLESS+WS server","engines":{"node":">=18"},"main":"index.js","name":"staxa-edge-ws","private":true,"scripts":{"start":"node index.js"},"version":"1.0.0"}
